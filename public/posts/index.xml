@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>posts on MammothKan Blog</title>
-    <link>https://examplesite.com/posts/</link>
-    <description>Recent content in posts on MammothKan Blog</description>
+    <title>posts on mammothkanblog</title>
+    <link>https://mammothkanblog.com/posts/</link>
+    <description>Recent content in posts on mammothkanblog</description>
     <image>
-      <title>MammothKan Blog</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <title>mammothkanblog</title>
+      <url>https://mammothkanblog.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://mammothkanblog.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 30 May 2023 22:27:58 +0100</lastBuildDate><atom:link href="https://examplesite.com/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 30 May 2023 22:27:58 +0100</lastBuildDate><atom:link href="https://mammothkanblog.com/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First_post</title>
-      <link>https://examplesite.com/posts/first_post/</link>
+      <link>https://mammothkanblog.com/posts/first_post/</link>
       <pubDate>Tue, 30 May 2023 22:27:58 +0100</pubDate>
       
-      <guid>https://examplesite.com/posts/first_post/</guid>
+      <guid>https://mammothkanblog.com/posts/first_post/</guid>
       <description>My first blog. </description>
     </item>
     
