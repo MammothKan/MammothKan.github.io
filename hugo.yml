@@ -71,7 +71,7 @@ params:
     enabled: true # needs to be explicitly set
     title: Mammoth Kan
     subtitle: "Hi \U0001F44B Welcome to my blog"
-    imageUrl: /my_image_2.jpg
+    imageUrl: /my_image.jpg
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
