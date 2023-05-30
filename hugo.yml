@@ -2,8 +2,8 @@
 # languageCode = 'en-us'
 # title = 'My New Hugo Site'
 
-baseURL: "https://examplesite.com/"
-title: MammothKan Blog
+baseURL: "https://mammothKkanblog.com/"
+title: mammothKkanblog
 paginate: 5
 theme: PaperMod
 
